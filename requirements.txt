@@ -1,0 +1,21 @@
+# Core dependencies
+numpy>=1.21.0
+scipy>=1.7.0
+scikit-learn>=1.0.0
+
+# Optional: Deep learning (for model loading)
+# Uncomment if using real models
+# torch>=2.0.0
+# transformers>=4.35.0
+# accelerate>=0.24.0
+
+# Optional: Image processing
+# pillow>=9.0.0
+
+# Optional: OpenAI API (for GPT-4V estimation)
+# openai>=1.0.0
+
+# Development
+# pytest>=7.0.0
+# black>=23.0.0
+# flake8>=6.0.0
